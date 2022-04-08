@@ -1,0 +1,14 @@
+[
+    {
+        "id": "fco@uach.com",
+        "roles": ["admin"]
+    },
+    {
+        "id": "martin@uach.com",
+        "roles": ["user"]
+    },
+    {
+        "id": "hola@uach.com",
+        "roles": ["user"]
+    }
+]
